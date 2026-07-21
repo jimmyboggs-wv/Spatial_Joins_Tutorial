@@ -1,0 +1,5 @@
+generated_utc,geography_level,boundary_feature_count,coordinate_valid_point_count,assigned_point_count,unassigned_point_count,within_assigned_count,fallback_assigned_count,ambiguous_records_resolved,polygons_with_points,coverage_expectation,benchmark_status,input_point_rows,coordinate_issue_rows
+2026-07-21T14:16:07+00:00,county,55,62547,62544,3,62544,0,0,55,statewide_near_complete,PASS,62749,202
+2026-07-21T14:16:07+00:00,census_tract,546,62547,62544,3,62544,0,0,546,statewide_near_complete,PASS,62749,202
+2026-07-21T14:16:07+00:00,incorporated_place,231,62547,37639,24908,37639,0,0,230,partial_settlement_coverage,PASS,62749,202
+2026-07-21T14:16:07+00:00,census_designated_place,208,62547,4981,57566,4981,0,0,197,partial_settlement_coverage,PASS,62749,202
