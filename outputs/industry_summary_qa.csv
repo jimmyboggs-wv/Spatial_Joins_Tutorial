@@ -1,0 +1,5 @@
+geography_level,output_rows,geographies_represented,industry_codes_represented,point_count_total,employee_count_total,revenue_total_for_nonmissing_records,revenue_records
+county,12056,55,787,62544,698343,104326766000,40620
+census_tract,33733,546,787,62544,698343,104326766000,40620
+incorporated_place,13737,230,690,37639,453553,61429237000,24036
+census_designated_place,3218,197,440,4981,43294,6900709000,3280
